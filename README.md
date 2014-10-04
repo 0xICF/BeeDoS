@@ -60,5 +60,8 @@ GPL v3
 
 References
 -
-http://0xicf.wordpress.com
+http://0xicf.wordpress.com/tools/beedos/
+
+https://github.com/0xICF/BeeDoS/
+
 
