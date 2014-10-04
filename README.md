@@ -12,7 +12,7 @@ BeeDoS developed for research purposes only, It is strongly recommended that you
 
 Download
 -
-https://github.com/0xICF/BeeDoS/archive/master.zip
+https://github.com/0xICF/BeeDoS/archive/v1.0-Beta.zip
 
 
 
