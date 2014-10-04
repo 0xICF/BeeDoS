@@ -1,4 +1,4 @@
-![Alt text](http://0xicf.files.wordpress.com/2014/06/banner1.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/06/banner1.jpg?w=1352&h=254 "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
 
 
 BeeDoS
@@ -39,7 +39,7 @@ Final release date will be published later - BeeDoS v1.0 Beta
 Screenshots
 - 
 
-![Alt text](http://0xicf.files.wordpress.com/2014/06/beedos1.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/06/beedos1.jpg?w=1352&h=1372 "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
 
 
 
