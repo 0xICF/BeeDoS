@@ -1,4 +1,4 @@
-![Alt text](https://0xicf.files.wordpress.com/2014/06/banner.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/06/banner.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
 
 
 BeeDoS
