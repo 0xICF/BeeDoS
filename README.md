@@ -39,7 +39,7 @@ Final release date will be published later - BeeDoS v1.0 Beta
 Screenshots
 - 
 
-![Alt text](http://0xicf.files.wordpress.com/2014/06/beedos.jpg "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
+![Alt text](http://0xicf.files.wordpress.com/2014/06/beedos.jpg?w=676 "BeeDoS - Behavioral Application Denial of Service (DoS) attack tool ")
 
 
 
