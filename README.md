@@ -12,9 +12,9 @@ BeeDoS developed for research purposes only, It is strongly recommended that you
 
 Download
 -
-http://0xicf.wordpress.com
+https://github.com/0xICF/BeeDoS/archive/master.zip
 
-Notice: due to limitations, the final release date of BeeDoS tool will be publish later.
+
 
 How to Use
 -
