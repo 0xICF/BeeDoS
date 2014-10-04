@@ -33,7 +33,7 @@ BeeDoS allows a single machine to take down another machine's web server with mi
 
 Change log
 -
-Final release date will be published later - BeeDoS v1.0 Beta
+October 03, 2014 - BeeDoS v1.0 Beta
 
 
 Screenshots
